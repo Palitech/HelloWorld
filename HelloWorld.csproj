@@ -21,6 +21,9 @@
 	<None Update="Computers.json">
 		<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	</None>
+	  <None Update="ComputersSnake.json">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
 	<PackageReference Include="NewtonSoft.JSON" Version="13.0.3" />
   </ItemGroup>
 
